@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1908" height="850" alt="image" src="https://github.com/user-attachments/assets/61a1ad5e-01bd-425e-ba24-313456da41cb" />
+
+### Name: KRITHIK KIRAN S
+### Register Number:25011340
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
